@@ -1,13 +1,29 @@
 # JS Journey
+
 This is my journey to becoming a mobile apps developer using react Native.
 
 ## Overview
+
 The journey start with learning JS written in js scripts.
 To run them use a browser console.
 
-### Things learnt:
+### Things learnt
 
 1) Classes
-   - Constructors
-   - Inheritance
-   - Instances and Methods
+    - Constructors
+    - Inheritance
+    - Instances and Methods
+
+2) Document Methods
+    - getElementById("")
+    - querySelector("")
+
+3) Window Methods
+    - prompt("prompt message")
+
+4) Properties
+    - textContent
+
+## Acknowledgments
+
+- [Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=5968908)
