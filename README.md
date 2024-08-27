@@ -14,15 +14,18 @@ To run them use a browser console.
     - Inheritance
     - Instances and Methods
 
-2) Document Methods
+2) Document Methods and Properties
     - getElementById("")
     - querySelector("")
+    - toggle("")
 
 3) Window Methods
     - prompt("prompt message")
 
 4) Properties
     - textContent
+    - classList
+    - body
 
 ## Acknowledgments
 
