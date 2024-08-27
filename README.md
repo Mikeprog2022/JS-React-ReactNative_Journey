@@ -30,3 +30,4 @@ To run them use a browser console.
 ## Acknowledgments
 
 - [Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=5968908)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
