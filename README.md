@@ -27,7 +27,12 @@ To run them use a browser console.
     - classList
     - body
 
+5) Math Methods
+    - .random()
+    - .floor(int)
+    - .ceil(int)
+    - .round(int)
+
 ## Acknowledgments
 
 - [Udemy](https://www.udemy.com/course-dashboard-redirect/?course_id=5968908)
-- [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
