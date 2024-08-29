@@ -19,19 +19,26 @@ To run them use a browser console.
     - querySelector("")
     - toggle("")
 
-3) Window Methods
+3) Methods
+    - clipboard.writeText
+
+4) Window Methods
     - prompt("prompt message")
 
-4) Properties
+5) Properties
     - textContent
     - classList
     - body
+    - navigator.clipboard
 
-5) Math Methods
+6) Math Methods
     - .random()
     - .floor(int)
     - .ceil(int)
     - .round(int)
+
+7) String Methods
+    - .charAt()
 
 ## Acknowledgments
 
