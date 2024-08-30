@@ -30,6 +30,8 @@ To run them use a browser console.
     - classList
     - body
     - navigator.clipboard
+    - style
+    - innerHTML
 
 6) Math Methods
     - .random()
@@ -39,6 +41,9 @@ To run them use a browser console.
 
 7) String Methods
     - .charAt()
+    - .trim()
+    - .indexOf()
+    - .lastIndexOf()
 
 ## Acknowledgments
 
