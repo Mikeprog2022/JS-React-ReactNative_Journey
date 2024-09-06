@@ -20,7 +20,8 @@ To run them use a browser console.
     - toggle("")
 
 3) Methods
-    - clipboard.writeText
+    - clipboard.writeText()
+    - addEventListener()
 
 4) Window Methods
     - prompt("prompt message")
@@ -38,12 +39,17 @@ To run them use a browser console.
     - .floor(int)
     - .ceil(int)
     - .round(int)
+    - .sqrt(int)
 
 7) String Methods
     - .charAt()
     - .trim()
     - .indexOf()
     - .lastIndexOf()
+
+7) Event Listeners
+    - DOMContentLoaded
+    - click
 
 ## Acknowledgments
 
